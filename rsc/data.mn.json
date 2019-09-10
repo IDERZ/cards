@@ -1,0 +1,173 @@
+[
+
+	{
+		"letter" : "Аа",
+		"image"  : "../rsc/img/apple.png",
+		"word"	 : "Алим"
+	},
+	{
+		"letter" : "Бб",
+		"image"  : "../rsc/img/ball.png",
+		"word"	 : "Бөмбөг"
+	},
+	{
+		"letter" : "Вв",
+		"image"  : "../rsc/img/peas.png",
+		"word"	 : "Вандуй"
+	},
+	{
+		"letter" : "Гг",
+		"image"  : "../rsc/img/hand.png",
+		"word"	 : "Гар"
+	},
+	{
+		"letter" : "Дд",
+		"image"  : "../rsc/img/kettle.png",
+		"word"	 : "Данх"
+	},
+	{
+		"letter" : "Ее",
+		"image"  : "../rsc/img/nine.png",
+		"word"	 : "Ес"
+	},
+	{
+		"letter" : "Ёё",
+		"image"  : "../rsc/img/ouch.png",
+		"word"	 : "Ёо ёо ёо"
+	},
+	{
+		"letter" : "Жж",
+		"image"  : "../rsc/img/juice.png",
+		"word"	 : "Жүүс"
+	},
+	{
+		"letter" : "Зз",
+		"image"  : "../rsc/img/hedgehog.png",
+		"word"	 : "Зараа"
+	},
+	{
+		"letter" : "Ии",
+		"image"  : "../rsc/img/smile.png",
+		"word"	 : "Инээд"
+	},
+	{
+		"letter" : "Йй",
+		"image"  : "../rsc/img/pig.png",
+		"word"	 : "Гахай"
+	},
+	{
+		"letter" : "Кк",
+		"image"  : "../rsc/img/crane.png",
+		"word"	 : "Кран"
+	},
+	{
+		"letter" : "Лл",
+		"image"  : "../rsc/img/candles.png",
+		"word"	 : "Лаа"
+	},
+	{
+		"letter" : "Мм",
+		"image"  : "../rsc/img/car.png",
+		"word"	 : "Машин"
+	},
+	{
+		"letter" : "Нн",
+		"image"  : "../rsc/img/sun.png",
+		"word"	 : "Нар"
+	},
+	{
+		"letter" : "Оо",
+		"image"  : "../rsc/img/star.png",
+		"word"	 : "Од"
+	},
+	{
+		"letter" : "Өө",
+		"image"  : "../rsc/img/pants.png",
+		"word"	 : "Өмд"
+	},
+	{
+		"letter" : "Пп",
+		"image"  : "../rsc/img/rocket.png",
+		"word"	 : "Пуужин"
+	},
+	{
+		"letter" : "Рр",
+		"image"  : "../rsc/img/robot.png",
+		"word"	 : "Робот"
+	},
+	{
+		"letter" : "Сс",
+		"image"  : "../rsc/img/moon.png",
+		"word"	 : "Сар"
+	},
+	{
+		"letter" : "Тт",
+		"image"  : "../rsc/img/five.png",
+		"word"	 : "Тав"
+	},
+	{
+		"letter" : "Уу",
+		"image"  : "../rsc/img/mountain.png",
+		"word"	 : "Уул"
+	},
+	{
+		"letter" : "Үү",
+		"image"  : "../rsc/img/cloud.png",
+		"word"	 : "Үүл"
+	},
+	{
+		"letter" : "Фф",
+		"image"  : "../rsc/img/file.png",
+		"word"	 : "Файл"
+	},
+	{
+		"letter" : "Хх",
+		"image"  : "../rsc/img/door.png",
+		"word"	 : "Хаалга"
+	},
+	{
+		"letter" : "Цц",
+		"image"  : "../rsc/img/shirt.png",
+		"word"	 : "Цамц"
+	},
+	{
+		"letter" : "Чч",
+		"image"  : "../rsc/img/wolf.png",
+		"word"	 : "Чоно"
+	},
+	{
+		"letter" : "Шш",
+		"image"  : "../rsc/img/mop.png",
+		"word"	 : "Шүүр"
+	},
+	{
+		"letter" : "Щщ",
+		"image"  : "",
+		"word"	 : "Щщ"
+	},
+	{
+		"letter" : "Ьь",
+		"image"  : "",
+		"word"	 : "Ьь"
+	},
+	{
+		"letter" : "Ъъ",
+		"image"  : "",
+		"word"	 : "Ъъ"
+	},
+	{
+		"letter" : "Ээ",
+		"image"  : "../rsc/img/doctor.png",
+		"word"	 : "Эмч"
+	},
+	{
+		"letter" : "Юю",
+		"image"  : "../rsc/img/whatis.png",
+		"word"	 : "Юу вэ?"
+	},
+	{
+		"letter" : "Яя",
+		"image"  : "../rsc/img/fly.png",
+		"word"	 : "Ялаа"
+	}
+]
