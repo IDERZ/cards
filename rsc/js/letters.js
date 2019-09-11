@@ -39,6 +39,6 @@ function showCard(card) {
     var br =      "<div class='letter'><span>" + card.letter + "</span></div>\n";
         br = br + "<div class='img'><img src='" + card.image + "' /></div>\n";
         br = br + "<div class='word'><span>" + card.word + "</span></div>\n";
-    $('#card').empty();
-    $('#card').append(br);
+    $('#letter-card').empty();
+    $('#letter-card').append(br);
 }
