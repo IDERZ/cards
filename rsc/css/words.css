@@ -1,1 +1,14 @@
 @import "style.css";
+
+.center.words {height:20%;}
+.bottom.words {height: 60%;}
+
+.top.words .home {float:left; }
+.top.words .home img {width: 23px; height: 23px; cursor: pointer;}
+
+.word-card {display: block; text-align: center;}
+.word-card span {font-size: 4.5em; color:#1cdd83;}
+
+.words .choices {display: block; overflow: hidden;}
+.words .choice {position: relative; width: 106px; height: 106px; margin: 0 auto; border: 2px solid #38cac3; border-radius: 10px;}
+.words .choice img {position: absolute; top:20%; left: 20%; width: 60%; height: 60%;}

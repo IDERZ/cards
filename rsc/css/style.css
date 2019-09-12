@@ -28,9 +28,11 @@ body {margin:0; padding:0; height: 100vh; font-family: 'Nobile', sans-serif;}
 /* body {margin:0; padding:0; height: 100vh; font-family: 'Andika', sans-serif;} */
 
 .container {margin: 0 auto; width: calc(100% - 10px); height: calc(100% - 10px); display: block; padding: 5px;}
-    .top {display: block; width: 100%; height:10%; background-color: #1660ab;}
+    .top {display: block; overflow: hidden; width: 100%; height:45px; margin-bottom:10px; background-color: #1660ab;}
     .center {display: block; width: 100%;}
     .bottom {display: block; width: 100%; margin-top: 5%;}
+    .top .home {float:left; }
+    .top .home img {width: 23px; height: 23px; cursor: pointer;}
 
 .btn {display: inline-block; padding: 10px; text-align: center; text-decoration: none; cursor: pointer;}
 
