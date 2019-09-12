@@ -17,7 +17,7 @@ $(document).ready(function () {
         showCard(datas[idx]);
     });
 
-    $('.choice').click(function(){
+    $('.choice').trigger(function(){
         console.log('clicked...');
     });
 
