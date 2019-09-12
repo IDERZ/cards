@@ -2,7 +2,7 @@ $(document).ready(function () {
     var datas = [];
     var curIdx = 0;
 
-    $.getJSON('../rsc/data.mn.json', function(data) {
+    $.getJSON('../rsc/mn.letters.json', function(data) {
         $.each(data, function(i, card) {
             datas[i] = card;
         });
@@ -36,9 +36,19 @@ function randomIdx(min, max) {
 }
 
 function showCard(card) {
+    var words = card.words;
+    var size = words.length;
+
+    var curIdx = 0;
+    if (size > 1) {
+        curIdx = randomIdx(0, size - 1);
+    }
+    
+    var word = words[curIdx];
+
     var br =      "<div class='letter'><span>" + card.letter + "</span></div>\n";
-        br = br + "<div class='img'><img src='" + card.image + "' /></div>\n";
-        br = br + "<div class='word'><span>" + card.word + "</span></div>\n";
+        br = br + "<div class='img'><img src='" + word.image + "' /></div>\n";
+        br = br + "<div class='word'><span>" + word.word + "</span></div>\n";
     $('#letter-card').empty();
     $('#letter-card').append(br);
 }

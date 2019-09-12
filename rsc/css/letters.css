@@ -9,12 +9,12 @@
 
 .letter-card {display: block; width: calc(100% - 10px); height: calc(100% - 10px); border: 5px solid cornflowerblue; border-radius: 10px;}
     .letter-card .letter {display: block; height: calc(20% - 20px); margin: 10px 0; text-align:center;}
-    .letter-card .letter span {font-size: 3.1em; color:#1660ab; letter-spacing: 0.2em;}
+    .letter-card .letter span {font-size: 3.3em; color:#1660ab; letter-spacing: 0.2em;}
     .letter-card .img {display: block; height: calc(60% - 30px); overflow: hidden; margin: 5px 0 5px 0; padding: 10px; text-align: center;}
     .letter-card .img img {margin-top: 5%; max-width:150px; max-height: 150px;}
     
     .letter-card .word {display: block; height: calc(20% - 10px); text-align: center; margin: 5px 0;}
-    .letter-card .word span {font-size: 3em; color:#1cdd83;}
+    .letter-card .word span {font-size: 3.3em; color:#1cdd83;}
 
 .letters .btn-con {display: block; overflow: hidden;}
 .letters .prev {width: calc(50% - 29px); margin-right: 5px; background-color: #e65100; border: 2px solid darkorange; border-radius: 10px;}

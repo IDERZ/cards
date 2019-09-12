@@ -1,0 +1,21 @@
+@import "style.css";
+
+.top.numbers {height: 40px; margin-bottom:10px;}
+.center.numbers {height:60%;}
+.bottom.numbers {height: 20%;}
+
+.top.numbers .home {float:left; }
+.top.numbers .home img {width: 20px; height: 20px; cursor: pointer;}
+
+.number-card {display: block; width: calc(100% - 10px); height: calc(100% - 10px); border: 5px solid cornflowerblue; border-radius: 10px;}
+    .number-card .number {display: block; height: calc(20% - 20px); margin: 10px 0; text-align:center;}
+    .number-card .number span {font-size: 3.1em; color:#1660ab; letter-spacing: 0.2em;}
+    .number-card .img {display: block; height: calc(60% - 30px); overflow: hidden; margin: 5px 0 5px 0; padding: 10px; text-align: center;}
+    .number-card .img img {margin-top: 5%; max-width:150px; max-height: 150px;}
+    
+    .number-card .word {display: block; height: calc(20% - 10px); text-align: center; margin: 5px 0;}
+    .number-card .word span {font-size: 3em; color:#1cdd83;}
+
+.numbers .btn-con {display: block; overflow: hidden;}
+.numbers .prev {width: calc(50% - 29px); margin-right: 5px; background-color: #e65100; border: 2px solid darkorange; border-radius: 10px;}
+.numbers .next {float:right; width: calc(50% - 29px); margin-left: 5px; background-color: #e65100; border: 2px solid darkorange; border-radius: 10px;}
