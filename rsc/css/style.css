@@ -46,4 +46,4 @@ body {margin:0; padding:0; height: 100vh; font-family: 'Nobile', sans-serif;}
 .board-item.letter {border: 5px solid #ef9a9a;}
 .board-item.number {border: 5px solid #7986cb;}
 .board-item.word {border: 5px solid #64b5f6;}
-.board-item.numcalc {border: 5px solid #009688;}
+.board-item.math {border: 5px solid #009688;}

@@ -1,0 +1,16 @@
+@import "style.css";
+
+.center.math {height:20%;}
+.bottom.math {height: 60%;}
+
+.top.math .home {float:left; }
+.top.math .home img {width: 23px; height: 23px; cursor: pointer;}
+
+.math-card {display: block; text-align: center;}
+.math-card span {font-size: 4.5em; color:#1cdd83;}
+
+.math .choices {display: block; overflow: hidden; }
+.math .choice {position: relative; width: 106px; height: 106px; margin: 0 auto; border: 2px solid #38cac3; border-radius: 10px; z-index: 1;}
+.math .choice .result {position: absolute; top:20%; left: 20%; width: 60%; text-align: center; font-size: 4em; color: #1660ab;}
+.math .choiced-bg {position: absolute; top:0; left:0; width: 126px; height: 126px; border-radius: 8px; z-index: 100; display: none; background-color: #333; opacity: 0.2;}
+.math img.choiced-img {position: absolute; top:5%; left: 5%; width: 90%; height: 90%; z-index: 200; display: none;}

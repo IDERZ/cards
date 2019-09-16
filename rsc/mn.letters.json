@@ -35,6 +35,10 @@
 			{
 				"image"  : "../rsc/img/poop.png",
 				"word"	 : "Баас"
+			},
+			{
+				"image"  : "../rsc/img/pen.png",
+				"word"	 : "Бал"
 			}
 		]
 	},
@@ -48,6 +52,10 @@
 			{
 				"image"  : "../rsc/img/peas.png",
 				"word"	 : "Вандуй"
+			},
+			{
+				"image"  : "../rsc/img/train.png",
+				"word"	 : "Вагон"
 			}
 		]
 	},
@@ -61,6 +69,18 @@
 			{
 				"image"  : "../rsc/img/ger.png",
 				"word"	 : "Гэр"
+			},
+			{
+				"image"  : "../rsc/img/puppy.png",
+				"word"	 : "Гөлөг"
+			},
+			{
+				"image"  : "../rsc/img/bridge.png",
+				"word"	 : "Гүүр"
+			},
+			{
+				"image"  : "../rsc/img/boots.png",
+				"word"	 : "Гутал"
 			}
 		]
 		
@@ -79,6 +99,14 @@
 			{
 				"image"  : "../rsc/img/snail.png",
 				"word"	 : "Дун"
+			},
+			{
+				"image"  : "../rsc/img/binocular.png",
+				"word"	 : "Дуран"
+			},
+			{
+				"image"  : "../rsc/img/fan.png",
+				"word"	 : "Дэвүүр"
 			}
 		]
 	},
@@ -88,6 +116,10 @@
 			{
 				"image"  : "../rsc/img/nine.png",
 				"word"	 : "Ес"
+			},
+			{
+				"image"  : "../rsc/img/yeven.png",
+				"word"	 : "Еэвэн"
 			}
 		]
 	},
@@ -97,6 +129,10 @@
 			{
 				"image"  : "../rsc/img/ouch.png",
 				"word"	 : "Ёо ёо ёо"
+			},
+			{
+				"image"  : "../rsc/img/sugarcubes.png",
+				"word"	 : "Ёотон"
 			}
 		]
 	},
@@ -106,6 +142,18 @@
 			{
 				"image"  : "../rsc/img/babyboy.png",
 				"word"	 : "Жаал"
+			},
+			{
+				"image"  : "../rsc/img/fruits.png",
+				"word"	 : "Жимс"
+			},
+			{
+				"image"  : "../rsc/img/driver.png",
+				"word"	 : "Жолооч"
+			},
+			{
+				"image"  : "../rsc/img/orange.png",
+				"word"	 : "Жүрж"
 			}
 		]
 	},
@@ -115,6 +163,22 @@
 			{
 				"image"  : "../rsc/img/hedgehog.png",
 				"word"	 : "Зараа"
+			},
+			{
+				"image"  : "../rsc/img/fish.png",
+				"word"	 : "Загас"
+			},
+			{
+				"image"  : "../rsc/img/elephant.png",
+				"word"	 : "Заан"
+			},
+			{
+				"image"  : "../rsc/img/coins.png",
+				"word"	 : "Зоос"
+			},
+			{
+				"image"  : "../rsc/img/heart.png",
+				"word"	 : "Зүрх"
 			}
 		]
 	},
@@ -124,6 +188,18 @@
 			{
 				"image"  : "../rsc/img/smile.png",
 				"word"	 : "Инээд"
+			},
+			{
+				"image"  : "../rsc/img/donkey.png",
+				"word"	 : "Илжиг"
+			},
+			{
+				"image"  : "../rsc/img/iron.png",
+				"word"	 : "Индүү"
+			},
+			{
+				"image"  : "../rsc/img/leopard.png",
+				"word"	 : "Ирвэс"
 			}
 		]
 	},
@@ -142,6 +218,10 @@
 			{
 				"image"  : "../rsc/img/crane.png",
 				"word"	 : "Кран"
+			},
+			{
+				"image"  : "../rsc/img/computer.png",
+				"word"	 : "Компьютер"
 			}
 		]
 	},
@@ -151,6 +231,26 @@
 			{
 				"image"  : "../rsc/img/candles.png",
 				"word"	 : "Лаа"
+			},
+			{
+				"image"  : "../rsc/img/carrot.png",
+				"word"	 : "Лууван"
+			},
+			{
+				"image"  : "../rsc/img/lama.png",
+				"word"	 : "Лам"
+			},
+			{
+				"image"  : "../rsc/img/hammer.png",
+				"word"	 : "Лантуу"
+			},
+			{
+				"image"  : "../rsc/img/pear.png",
+				"word"	 : "Лийр"
+			},
+			{
+				"image"  : "../rsc/img/fife.png",
+				"word"	 : "Лимбэ"
 			}
 		]
 	},
@@ -160,6 +260,18 @@
 			{
 				"image"  : "../rsc/img/car.png",
 				"word"	 : "Машин"
+			},
+			{
+				"image"  : "../rsc/img/cat.png",
+				"word"	 : "Муур"
+			},
+			{
+				"image"  : "../rsc/img/tent.png",
+				"word"	 : "Майхан"
+			},
+			{
+				"image"  : "../rsc/img/ice.png",
+				"word"	 : "Мөс"
 			}
 		]
 	},
@@ -169,6 +281,18 @@
 			{
 				"image"  : "../rsc/img/sun.png",
 				"word"	 : "Нар"
+			},
+			{
+				"image"  : "../rsc/img/leaf.png",
+				"word"	 : "Навч"
+			},
+			{
+				"image"  : "../rsc/img/book.png",
+				"word"	 : "Ном"
+			},
+			{
+				"image"  : "../rsc/img/virus.png",
+				"word"	 : "Нян"
 			}
 		]
 	},
@@ -178,6 +302,22 @@
 			{
 				"image"  : "../rsc/img/star.png",
 				"word"	 : "Од"
+			},
+			{
+				"image"  : "../rsc/img/airplane.png",
+				"word"	 : "Онгоц"
+			},
+			{
+				"image"  : "../rsc/img/sock.png",
+				"word"	 : "Оймс"
+			},
+			{
+				"image"  : "../rsc/img/daughter.png",
+				"word"	 : "Охин"
+			},
+			{
+				"image"  : "../rsc/img/toothpaste.png",
+				"word"	 : "Оо"
 			}
 		]
 	},
@@ -187,6 +327,22 @@
 			{
 				"image"  : "../rsc/img/pants.png",
 				"word"	 : "Өмд"
+			},
+			{
+				"image"  : "../rsc/img/egg.png",
+				"word"	 : "Өндөг"
+			},
+			{
+				"image"  : "../rsc/img/grass.png",
+				"word"	 : "Өвс"
+			},
+			{
+				"image"  : "../rsc/img/worm.png",
+				"word"	 : "Өт"
+			},
+			{
+				"image"  : "../rsc/img/feather.png",
+				"word"	 : "Өд"
 			}
 		]
 	},
@@ -196,6 +352,14 @@
 			{
 				"image"  : "../rsc/img/rocket.png",
 				"word"	 : "Пуужин"
+			},
+			{
+				"image"  : "../rsc/img/sneaker.png",
+				"word"	 : "Пүүз"
+			},
+			{
+				"image"  : "../rsc/img/pizza.png",
+				"word"	 : "Пицца"
 			}
 		]
 	},
@@ -205,6 +369,10 @@
 			{
 				"image"  : "../rsc/img/robot.png",
 				"word"	 : "Робот"
+			},
+			{
+				"image"  : "../rsc/img/radio.png",
+				"word"	 : "Радио"
 			}
 		]
 	},
@@ -214,6 +382,18 @@
 			{
 				"image"  : "../rsc/img/moon.png",
 				"word"	 : "Сар"
+			},
+			{
+				"image"  : "../rsc/img/comb.png",
+				"word"	 : "Сам"
+			},
+			{
+				"image"  : "../rsc/img/soap.png",
+				"word"	 : "Саван"
+			},
+			{
+				"image"  : "../rsc/img/toothbrush.png",
+				"word"	 : "Сойз"
 			}
 		]
 	},
@@ -223,6 +403,18 @@
 			{
 				"image"  : "../rsc/img/five.png",
 				"word"	 : "Тав"
+			},
+			{
+				"image"  : "../rsc/img/camel.png",
+				"word"	 : "Тэмээ"
+			},
+			{
+				"image"  : "../rsc/img/key.png",
+				"word"	 : "Түлхүүр"
+			},
+			{
+				"image"  : "../rsc/img/numbers.png",
+				"word"	 : "Тоо"
 			}
 		]
 	},
@@ -232,6 +424,14 @@
 			{
 				"image"  : "../rsc/img/mountain.png",
 				"word"	 : "Уул"
+			},
+			{
+				"image"  : "../rsc/img/remotecontrol.png",
+				"word"	 : "Удирдлага"
+			},
+			{
+				"image"  : "../rsc/img/drink.png",
+				"word"	 : "Ундаа"
 			}
 		]
 	},
@@ -241,6 +441,18 @@
 			{
 				"image"  : "../rsc/img/cloud.png",
 				"word"	 : "Үүл"
+			},
+			{
+				"image"  : "../rsc/img/fox.png",
+				"word"	 : "Үнэг"
+			},
+			{
+				"image"  : "../rsc/img/raisin.png",
+				"word"	 : "Үзэм"
+			},
+			{
+				"image"  : "../rsc/img/cow.png",
+				"word"	 : "Үхэр"
 			}
 		]
 	},
@@ -250,6 +462,10 @@
 			{
 				"image"  : "../rsc/img/file.png",
 				"word"	 : "Файл"
+			},
+			{
+				"image"  : "../rsc/img/tshirt.png",
+				"word"	 : "Футболк"
 			}
 		]
 	},
@@ -259,6 +475,22 @@
 			{
 				"image"  : "../rsc/img/door.png",
 				"word"	 : "Хаалга"
+			},
+			{
+				"image"  : "../rsc/img/squirrel.png",
+				"word"	 : "Хэрэм"
+			},
+			{
+				"image"  : "../rsc/img/shovel.png",
+				"word"	 : "Хүрз"
+			},
+			{
+				"image"  : "../rsc/img/haha.png",
+				"word"	 : "Ха ха"
+			},
+			{
+				"image"  : "../rsc/img/tongue.png",
+				"word"	 : "Хэл"
 			}
 		]
 	},
@@ -268,6 +500,18 @@
 			{
 				"image"  : "../rsc/img/shirt.png",
 				"word"	 : "Цамц"
+			},
+			{
+				"image"  : "../rsc/img/soldier.png",
+				"word"	 : "Цэрэг"
+			},
+			{
+				"image"  : "../rsc/img/bag.png",
+				"word"	 : "Цүнх"
+			},
+			{
+				"image"  : "../rsc/img/flower.png",
+				"word"	 : "Цэцэг"
 			}
 		]
 	},
@@ -277,6 +521,14 @@
 			{
 				"image"  : "../rsc/img/wolf.png",
 				"word"	 : "Чоно"
+			},
+			{
+				"image"  : "../rsc/img/sled.png",
+				"word"	 : "Чарга"
+			},
+			{
+				"image"  : "../rsc/img/ear.png",
+				"word"	 : "Чих"
 			}
 		]
 	},
@@ -286,6 +538,14 @@
 			{
 				"image"  : "../rsc/img/tooth.png",
 				"word"	 : "Шүд"
+			},
+			{
+				"image"  : "../rsc/img/stair.png",
+				"word"	 : "Шат"
+			},
+			{
+				"image"  : "../rsc/img/cube.png",
+				"word"	 : "Шоо"
 			}
 		]
 	},
@@ -322,6 +582,10 @@
 			{
 				"image"  : "../rsc/img/horse.png",
 				"word"	 : "Морь"
+			},
+			{
+				"image"  : "../rsc/img/sheep.png",
+				"word"	 : "Хонь"
 			}
 		]
 	},
@@ -331,6 +595,14 @@
 			{
 				"image"  : "../rsc/img/doctor.png",
 				"word"	 : "Эмч"
+			},
+			{
+				"image"  : "../rsc/img/butterfly.png",
+				"word"	 : "Эрвээхэй"
+			},
+			{
+				"image"  : "../rsc/img/pill.png",
+				"word"	 : "Эм"
 			}
 		]
 	},
@@ -340,6 +612,10 @@
 			{
 				"image"  : "../rsc/img/whatis.png",
 				"word"	 : "Юу вэ?"
+			},
+			{
+				"image"  : "../rsc/img/funnel.png",
+				"word"	 : "Юүлүүр"
 			}
 		]
 	},
@@ -349,6 +625,18 @@
 			{
 				"image"  : "../rsc/img/fly.png",
 				"word"	 : "Ялаа"
+			},
+			{
+				"image"  : "../rsc/img/fawn.png",
+				"word"	 : "Янзага"
+			},
+			{
+				"image"  : "../rsc/img/goat.png",
+				"word"	 : "Ямаа"
+			},
+			{
+				"image"  : "../rsc/img/bone.png",
+				"word"	 : "Яс"
 			}
 		]
 	}
