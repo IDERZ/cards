@@ -6,7 +6,7 @@ $(document).ready(function () {
         return Math.floor(Math.random() * (max - min + 1)) + min;
     }
 
-    $.getJSON('../rsc/mn.letters.json', function(data) {
+    $.getJSON('rsc/mn.letters.json', function(data) {
         $.each(data, function(i, card) {
             if (card.letter != 'Ыы' && card.letter != 'Щщ') {
                 words = $.merge(words, card.words);
@@ -30,9 +30,9 @@ $(document).ready(function () {
         $(choicedImg).show('fast');
 
         if (word == choicedWord) {
-            $(choicedImg).attr('src', '../rsc/img/icons/correct.svg');
+            $(choicedImg).attr('src', 'rsc/img/icons/correct.svg');
         } else {
-            $(choicedImg).attr('src', '../rsc/img/icons/incorrect.svg');
+            $(choicedImg).attr('src', 'rsc/img/icons/incorrect.svg');
         }
         $('#word').attr('selected', true);
 

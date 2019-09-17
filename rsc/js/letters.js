@@ -2,7 +2,7 @@ $(document).ready(function () {
     var datas = [];
     var curIdx = 0;
 
-    $.getJSON('../rsc/mn.letters.json', function(data) {
+    $.getJSON('rsc/mn.letters.json', function(data) {
         $.each(data, function(i, card) {
             datas[i] = card;
         });

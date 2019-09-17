@@ -1,7 +1,7 @@
 {
     "name": "Learning cards",
     "short_name": "Medu",
-    "start_url": "/index.html",
+    "start_url": "/medu",
     "display": "fullscreen",
     "orientation": "portrait",
     "background_color": "#f7f7f7",

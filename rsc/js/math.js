@@ -9,8 +9,7 @@ $(document).ready(function () {
         return Math.floor(Math.random() * (max - min + 1)) + min;
     }
 
-    $.getJSON('../rsc/math.expr.json', function(data) {
-        console.log(data);
+    $.getJSON('rsc/math.expr.json', function(data) {
         $.each(data, function(i, expr) {
             exprs[i] = expr.expr;
         });
@@ -32,9 +31,9 @@ $(document).ready(function () {
         $(choicedImg).show('fast');
 
         if (result == choicedResult) {
-            $(choicedImg).attr('src', '../rsc/img/icons/correct.svg');
+            $(choicedImg).attr('src', 'rsc/img/icons/correct.svg');
         } else {
-            $(choicedImg).attr('src', '../rsc/img/icons/incorrect.svg');
+            $(choicedImg).attr('src', 'rsc/img/icons/incorrect.svg');
         }
         $('#expr').attr('selected', true);
 

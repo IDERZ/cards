@@ -4,19 +4,19 @@
 		"letter" : "Аа",
 		"words" : [
 			{
-				"image"  : "../rsc/img/apple.png",
+				"image"  : "rsc/img/apple.png",
 				"word"	 : "Алим"
 			},
 			{
-				"image"  : "../rsc/img/spider.png",
+				"image"  : "rsc/img/spider.png",
 				"word"	 : "Аалз"
 			},
 			{
-				"image"  : "../rsc/img/mouth.png",
+				"image"  : "rsc/img/mouth.png",
 				"word"	 : "Ам"
 			},
 			{
-				"image"  : "../rsc/img/gold.png",
+				"image"  : "rsc/img/gold.png",
 				"word"	 : "Алт"
 			}
 		]
@@ -25,19 +25,19 @@
 		"letter" : "Бб",
 		"words" : [
 			{
-				"image"  : "../rsc/img/ball.png",
+				"image"  : "rsc/img/ball.png",
 				"word"	 : "Бөмбөг"
 			},
 			{
-				"image"  : "../rsc/img/tiger.png",
+				"image"  : "rsc/img/tiger.png",
 				"word"	 : "Бар"
 			},
 			{
-				"image"  : "../rsc/img/poop.png",
+				"image"  : "rsc/img/poop.png",
 				"word"	 : "Баас"
 			},
 			{
-				"image"  : "../rsc/img/pen.png",
+				"image"  : "rsc/img/pen.png",
 				"word"	 : "Бал"
 			}
 		]
@@ -46,15 +46,15 @@
 		"letter" : "Вв",
 		"words" : [
 			{
-				"image"  : "../rsc/img/vase.png",
+				"image"  : "rsc/img/vase.png",
 				"word"	 : "Ваар"
 			},
 			{
-				"image"  : "../rsc/img/peas.png",
+				"image"  : "rsc/img/peas.png",
 				"word"	 : "Вандуй"
 			},
 			{
-				"image"  : "../rsc/img/train.png",
+				"image"  : "rsc/img/train.png",
 				"word"	 : "Вагон"
 			}
 		]
@@ -63,23 +63,23 @@
 		"letter" : "Гг",
 		"words" : [
 			{
-				"image"  : "../rsc/img/hand.png",
+				"image"  : "rsc/img/hand.png",
 				"word"	 : "Гар"
 			},
 			{
-				"image"  : "../rsc/img/ger.png",
+				"image"  : "rsc/img/ger.png",
 				"word"	 : "Гэр"
 			},
 			{
-				"image"  : "../rsc/img/puppy.png",
+				"image"  : "rsc/img/puppy.png",
 				"word"	 : "Гөлөг"
 			},
 			{
-				"image"  : "../rsc/img/bridge.png",
+				"image"  : "rsc/img/bridge.png",
 				"word"	 : "Гүүр"
 			},
 			{
-				"image"  : "../rsc/img/boots.png",
+				"image"  : "rsc/img/boots.png",
 				"word"	 : "Гутал"
 			}
 		]
@@ -89,23 +89,23 @@
 		"letter" : "Дд",
 		"words" : [
 			{
-				"image"  : "../rsc/img/kettle.png",
+				"image"  : "rsc/img/kettle.png",
 				"word"	 : "Данх"
 			},
 			{
-				"image"  : "../rsc/img/pillow.png",
+				"image"  : "rsc/img/pillow.png",
 				"word"	 : "Дэр"
 			},
 			{
-				"image"  : "../rsc/img/snail.png",
+				"image"  : "rsc/img/snail.png",
 				"word"	 : "Дун"
 			},
 			{
-				"image"  : "../rsc/img/binocular.png",
+				"image"  : "rsc/img/binocular.png",
 				"word"	 : "Дуран"
 			},
 			{
-				"image"  : "../rsc/img/fan.png",
+				"image"  : "rsc/img/fan.png",
 				"word"	 : "Дэвүүр"
 			}
 		]
@@ -114,11 +114,11 @@
 		"letter" : "Ее",
 		"words" : [
 			{
-				"image"  : "../rsc/img/nine.png",
+				"image"  : "rsc/img/nine.png",
 				"word"	 : "Ес"
 			},
 			{
-				"image"  : "../rsc/img/yeven.png",
+				"image"  : "rsc/img/yeven.png",
 				"word"	 : "Еэвэн"
 			}
 		]
@@ -127,11 +127,11 @@
 		"letter" : "Ёё",
 		"words" : [
 			{
-				"image"  : "../rsc/img/ouch.png",
+				"image"  : "rsc/img/ouch.png",
 				"word"	 : "Ёо ёо ёо"
 			},
 			{
-				"image"  : "../rsc/img/sugarcubes.png",
+				"image"  : "rsc/img/sugarcubes.png",
 				"word"	 : "Ёотон"
 			}
 		]
@@ -140,19 +140,19 @@
 		"letter" : "Жж",
 		"words" : [
 			{
-				"image"  : "../rsc/img/babyboy.png",
+				"image"  : "rsc/img/babyboy.png",
 				"word"	 : "Жаал"
 			},
 			{
-				"image"  : "../rsc/img/fruits.png",
+				"image"  : "rsc/img/fruits.png",
 				"word"	 : "Жимс"
 			},
 			{
-				"image"  : "../rsc/img/driver.png",
+				"image"  : "rsc/img/driver.png",
 				"word"	 : "Жолооч"
 			},
 			{
-				"image"  : "../rsc/img/orange.png",
+				"image"  : "rsc/img/orange.png",
 				"word"	 : "Жүрж"
 			}
 		]
@@ -161,23 +161,23 @@
 		"letter" : "Зз",
 		"words" : [
 			{
-				"image"  : "../rsc/img/hedgehog.png",
+				"image"  : "rsc/img/hedgehog.png",
 				"word"	 : "Зараа"
 			},
 			{
-				"image"  : "../rsc/img/fish.png",
+				"image"  : "rsc/img/fish.png",
 				"word"	 : "Загас"
 			},
 			{
-				"image"  : "../rsc/img/elephant.png",
+				"image"  : "rsc/img/elephant.png",
 				"word"	 : "Заан"
 			},
 			{
-				"image"  : "../rsc/img/coins.png",
+				"image"  : "rsc/img/coins.png",
 				"word"	 : "Зоос"
 			},
 			{
-				"image"  : "../rsc/img/heart.png",
+				"image"  : "rsc/img/heart.png",
 				"word"	 : "Зүрх"
 			}
 		]
@@ -186,19 +186,19 @@
 		"letter" : "Ии",
 		"words" : [
 			{
-				"image"  : "../rsc/img/smile.png",
+				"image"  : "rsc/img/smile.png",
 				"word"	 : "Инээд"
 			},
 			{
-				"image"  : "../rsc/img/donkey.png",
+				"image"  : "rsc/img/donkey.png",
 				"word"	 : "Илжиг"
 			},
 			{
-				"image"  : "../rsc/img/iron.png",
+				"image"  : "rsc/img/iron.png",
 				"word"	 : "Индүү"
 			},
 			{
-				"image"  : "../rsc/img/leopard.png",
+				"image"  : "rsc/img/leopard.png",
 				"word"	 : "Ирвэс"
 			}
 		]
@@ -207,7 +207,7 @@
 		"letter" : "Йй",
 		"words" : [
 			{
-				"image"  : "../rsc/img/pig.png",
+				"image"  : "rsc/img/pig.png",
 				"word"	 : "Гахай"
 			}
 		]
@@ -216,11 +216,11 @@
 		"letter" : "Кк",
 		"words" : [
 			{
-				"image"  : "../rsc/img/crane.png",
+				"image"  : "rsc/img/crane.png",
 				"word"	 : "Кран"
 			},
 			{
-				"image"  : "../rsc/img/computer.png",
+				"image"  : "rsc/img/computer.png",
 				"word"	 : "Компьютер"
 			}
 		]
@@ -229,27 +229,27 @@
 		"letter" : "Лл",
 		"words" : [
 			{
-				"image"  : "../rsc/img/candles.png",
+				"image"  : "rsc/img/candles.png",
 				"word"	 : "Лаа"
 			},
 			{
-				"image"  : "../rsc/img/carrot.png",
+				"image"  : "rsc/img/carrot.png",
 				"word"	 : "Лууван"
 			},
 			{
-				"image"  : "../rsc/img/lama.png",
+				"image"  : "rsc/img/lama.png",
 				"word"	 : "Лам"
 			},
 			{
-				"image"  : "../rsc/img/hammer.png",
+				"image"  : "rsc/img/hammer.png",
 				"word"	 : "Лантуу"
 			},
 			{
-				"image"  : "../rsc/img/pear.png",
+				"image"  : "rsc/img/pear.png",
 				"word"	 : "Лийр"
 			},
 			{
-				"image"  : "../rsc/img/fife.png",
+				"image"  : "rsc/img/fife.png",
 				"word"	 : "Лимбэ"
 			}
 		]
@@ -258,19 +258,19 @@
 		"letter" : "Мм",
 		"words" : [
 			{
-				"image"  : "../rsc/img/car.png",
+				"image"  : "rsc/img/car.png",
 				"word"	 : "Машин"
 			},
 			{
-				"image"  : "../rsc/img/cat.png",
+				"image"  : "rsc/img/cat.png",
 				"word"	 : "Муур"
 			},
 			{
-				"image"  : "../rsc/img/tent.png",
+				"image"  : "rsc/img/tent.png",
 				"word"	 : "Майхан"
 			},
 			{
-				"image"  : "../rsc/img/ice.png",
+				"image"  : "rsc/img/ice.png",
 				"word"	 : "Мөс"
 			}
 		]
@@ -279,19 +279,19 @@
 		"letter" : "Нн",
 		"words" : [
 			{
-				"image"  : "../rsc/img/sun.png",
+				"image"  : "rsc/img/sun.png",
 				"word"	 : "Нар"
 			},
 			{
-				"image"  : "../rsc/img/leaf.png",
+				"image"  : "rsc/img/leaf.png",
 				"word"	 : "Навч"
 			},
 			{
-				"image"  : "../rsc/img/book.png",
+				"image"  : "rsc/img/book.png",
 				"word"	 : "Ном"
 			},
 			{
-				"image"  : "../rsc/img/virus.png",
+				"image"  : "rsc/img/virus.png",
 				"word"	 : "Нян"
 			}
 		]
@@ -300,23 +300,23 @@
 		"letter" : "Оо",
 		"words" : [
 			{
-				"image"  : "../rsc/img/star.png",
+				"image"  : "rsc/img/star.png",
 				"word"	 : "Од"
 			},
 			{
-				"image"  : "../rsc/img/airplane.png",
+				"image"  : "rsc/img/airplane.png",
 				"word"	 : "Онгоц"
 			},
 			{
-				"image"  : "../rsc/img/sock.png",
+				"image"  : "rsc/img/sock.png",
 				"word"	 : "Оймс"
 			},
 			{
-				"image"  : "../rsc/img/daughter.png",
+				"image"  : "rsc/img/daughter.png",
 				"word"	 : "Охин"
 			},
 			{
-				"image"  : "../rsc/img/toothpaste.png",
+				"image"  : "rsc/img/toothpaste.png",
 				"word"	 : "Оо"
 			}
 		]
@@ -325,23 +325,23 @@
 		"letter" : "Өө",
 		"words" : [
 			{
-				"image"  : "../rsc/img/pants.png",
+				"image"  : "rsc/img/pants.png",
 				"word"	 : "Өмд"
 			},
 			{
-				"image"  : "../rsc/img/egg.png",
+				"image"  : "rsc/img/egg.png",
 				"word"	 : "Өндөг"
 			},
 			{
-				"image"  : "../rsc/img/grass.png",
+				"image"  : "rsc/img/grass.png",
 				"word"	 : "Өвс"
 			},
 			{
-				"image"  : "../rsc/img/worm.png",
+				"image"  : "rsc/img/worm.png",
 				"word"	 : "Өт"
 			},
 			{
-				"image"  : "../rsc/img/feather.png",
+				"image"  : "rsc/img/feather.png",
 				"word"	 : "Өд"
 			}
 		]
@@ -350,15 +350,15 @@
 		"letter" : "Пп",
 		"words" : [
 			{
-				"image"  : "../rsc/img/rocket.png",
+				"image"  : "rsc/img/rocket.png",
 				"word"	 : "Пуужин"
 			},
 			{
-				"image"  : "../rsc/img/sneaker.png",
+				"image"  : "rsc/img/sneaker.png",
 				"word"	 : "Пүүз"
 			},
 			{
-				"image"  : "../rsc/img/pizza.png",
+				"image"  : "rsc/img/pizza.png",
 				"word"	 : "Пицца"
 			}
 		]
@@ -367,11 +367,11 @@
 		"letter" : "Рр",
 		"words" : [
 			{
-				"image"  : "../rsc/img/robot.png",
+				"image"  : "rsc/img/robot.png",
 				"word"	 : "Робот"
 			},
 			{
-				"image"  : "../rsc/img/radio.png",
+				"image"  : "rsc/img/radio.png",
 				"word"	 : "Радио"
 			}
 		]
@@ -380,19 +380,19 @@
 		"letter" : "Сс",
 		"words" : [
 			{
-				"image"  : "../rsc/img/moon.png",
+				"image"  : "rsc/img/moon.png",
 				"word"	 : "Сар"
 			},
 			{
-				"image"  : "../rsc/img/comb.png",
+				"image"  : "rsc/img/comb.png",
 				"word"	 : "Сам"
 			},
 			{
-				"image"  : "../rsc/img/soap.png",
+				"image"  : "rsc/img/soap.png",
 				"word"	 : "Саван"
 			},
 			{
-				"image"  : "../rsc/img/toothbrush.png",
+				"image"  : "rsc/img/toothbrush.png",
 				"word"	 : "Сойз"
 			}
 		]
@@ -401,19 +401,19 @@
 		"letter" : "Тт",
 		"words" : [
 			{
-				"image"  : "../rsc/img/five.png",
+				"image"  : "rsc/img/five.png",
 				"word"	 : "Тав"
 			},
 			{
-				"image"  : "../rsc/img/camel.png",
+				"image"  : "rsc/img/camel.png",
 				"word"	 : "Тэмээ"
 			},
 			{
-				"image"  : "../rsc/img/key.png",
+				"image"  : "rsc/img/key.png",
 				"word"	 : "Түлхүүр"
 			},
 			{
-				"image"  : "../rsc/img/numbers.png",
+				"image"  : "rsc/img/numbers.png",
 				"word"	 : "Тоо"
 			}
 		]
@@ -422,15 +422,15 @@
 		"letter" : "Уу",
 		"words" : [
 			{
-				"image"  : "../rsc/img/mountain.png",
+				"image"  : "rsc/img/mountain.png",
 				"word"	 : "Уул"
 			},
 			{
-				"image"  : "../rsc/img/remotecontrol.png",
-				"word"	 : "Удирдлага"
+				"image"  : "rsc/img/mobile.png",
+				"word"	 : "Утас"
 			},
 			{
-				"image"  : "../rsc/img/drink.png",
+				"image"  : "rsc/img/drink.png",
 				"word"	 : "Ундаа"
 			}
 		]
@@ -439,19 +439,19 @@
 		"letter" : "Үү",
 		"words" : [
 			{
-				"image"  : "../rsc/img/cloud.png",
+				"image"  : "rsc/img/cloud.png",
 				"word"	 : "Үүл"
 			},
 			{
-				"image"  : "../rsc/img/fox.png",
+				"image"  : "rsc/img/fox.png",
 				"word"	 : "Үнэг"
 			},
 			{
-				"image"  : "../rsc/img/raisin.png",
+				"image"  : "rsc/img/raisin.png",
 				"word"	 : "Үзэм"
 			},
 			{
-				"image"  : "../rsc/img/cow.png",
+				"image"  : "rsc/img/cow.png",
 				"word"	 : "Үхэр"
 			}
 		]
@@ -460,11 +460,11 @@
 		"letter" : "Фф",
 		"words" : [
 			{
-				"image"  : "../rsc/img/file.png",
+				"image"  : "rsc/img/file.png",
 				"word"	 : "Файл"
 			},
 			{
-				"image"  : "../rsc/img/tshirt.png",
+				"image"  : "rsc/img/tshirt.png",
 				"word"	 : "Футболк"
 			}
 		]
@@ -473,23 +473,23 @@
 		"letter" : "Хх",
 		"words" : [
 			{
-				"image"  : "../rsc/img/door.png",
+				"image"  : "rsc/img/door.png",
 				"word"	 : "Хаалга"
 			},
 			{
-				"image"  : "../rsc/img/squirrel.png",
+				"image"  : "rsc/img/squirrel.png",
 				"word"	 : "Хэрэм"
 			},
 			{
-				"image"  : "../rsc/img/shovel.png",
+				"image"  : "rsc/img/shovel.png",
 				"word"	 : "Хүрз"
 			},
 			{
-				"image"  : "../rsc/img/haha.png",
+				"image"  : "rsc/img/haha.png",
 				"word"	 : "Ха ха"
 			},
 			{
-				"image"  : "../rsc/img/tongue.png",
+				"image"  : "rsc/img/tongue.png",
 				"word"	 : "Хэл"
 			}
 		]
@@ -498,19 +498,19 @@
 		"letter" : "Цц",
 		"words" : [
 			{
-				"image"  : "../rsc/img/shirt.png",
+				"image"  : "rsc/img/shirt.png",
 				"word"	 : "Цамц"
 			},
 			{
-				"image"  : "../rsc/img/soldier.png",
+				"image"  : "rsc/img/soldier.png",
 				"word"	 : "Цэрэг"
 			},
 			{
-				"image"  : "../rsc/img/bag.png",
+				"image"  : "rsc/img/bag.png",
 				"word"	 : "Цүнх"
 			},
 			{
-				"image"  : "../rsc/img/flower.png",
+				"image"  : "rsc/img/flower.png",
 				"word"	 : "Цэцэг"
 			}
 		]
@@ -519,15 +519,15 @@
 		"letter" : "Чч",
 		"words" : [
 			{
-				"image"  : "../rsc/img/wolf.png",
+				"image"  : "rsc/img/wolf.png",
 				"word"	 : "Чоно"
 			},
 			{
-				"image"  : "../rsc/img/sled.png",
+				"image"  : "rsc/img/sled.png",
 				"word"	 : "Чарга"
 			},
 			{
-				"image"  : "../rsc/img/ear.png",
+				"image"  : "rsc/img/ear.png",
 				"word"	 : "Чих"
 			}
 		]
@@ -536,15 +536,15 @@
 		"letter" : "Шш",
 		"words" : [
 			{
-				"image"  : "../rsc/img/tooth.png",
+				"image"  : "rsc/img/tooth.png",
 				"word"	 : "Шүд"
 			},
 			{
-				"image"  : "../rsc/img/stair.png",
+				"image"  : "rsc/img/stair.png",
 				"word"	 : "Шат"
 			},
 			{
-				"image"  : "../rsc/img/cube.png",
+				"image"  : "rsc/img/cube.png",
 				"word"	 : "Шоо"
 			}
 		]
@@ -562,7 +562,7 @@
 		"letter" : "Ъъ",
 		"words" : [
 			{
-				"image"  : "../rsc/img/togo.png",
+				"image"  : "rsc/img/togo.png",
 				"word"	 : "Явъя"
 			}
 		]
@@ -580,11 +580,11 @@
 		"letter" : "Ьь",
 		"words" : [
 			{
-				"image"  : "../rsc/img/horse.png",
+				"image"  : "rsc/img/horse.png",
 				"word"	 : "Морь"
 			},
 			{
-				"image"  : "../rsc/img/sheep.png",
+				"image"  : "rsc/img/sheep.png",
 				"word"	 : "Хонь"
 			}
 		]
@@ -593,15 +593,15 @@
 		"letter" : "Ээ",
 		"words" : [
 			{
-				"image"  : "../rsc/img/doctor.png",
+				"image"  : "rsc/img/doctor.png",
 				"word"	 : "Эмч"
 			},
 			{
-				"image"  : "../rsc/img/butterfly.png",
+				"image"  : "rsc/img/butterfly.png",
 				"word"	 : "Эрвээхэй"
 			},
 			{
-				"image"  : "../rsc/img/pill.png",
+				"image"  : "rsc/img/pill.png",
 				"word"	 : "Эм"
 			}
 		]
@@ -610,11 +610,11 @@
 		"letter" : "Юю",
 		"words" : [
 			{
-				"image"  : "../rsc/img/whatis.png",
+				"image"  : "rsc/img/whatis.png",
 				"word"	 : "Юу вэ?"
 			},
 			{
-				"image"  : "../rsc/img/funnel.png",
+				"image"  : "rsc/img/funnel.png",
 				"word"	 : "Юүлүүр"
 			}
 		]
@@ -623,19 +623,19 @@
 		"letter" : "Яя",
 		"words" : [
 			{
-				"image"  : "../rsc/img/fly.png",
+				"image"  : "rsc/img/fly.png",
 				"word"	 : "Ялаа"
 			},
 			{
-				"image"  : "../rsc/img/fawn.png",
+				"image"  : "rsc/img/fawn.png",
 				"word"	 : "Янзага"
 			},
 			{
-				"image"  : "../rsc/img/goat.png",
+				"image"  : "rsc/img/goat.png",
 				"word"	 : "Ямаа"
 			},
 			{
-				"image"  : "../rsc/img/bone.png",
+				"image"  : "rsc/img/bone.png",
 				"word"	 : "Яс"
 			}
 		]

@@ -1,57 +1,57 @@
 [
     {
 		"number" : "0",
-		"image"  : "../rsc/img/num.0.png",
+		"image"  : "rsc/img/num.0.png",
 		"word"	 : "Тэг"
     },
 	{
 		"number" : "1",
-		"image"  : "../rsc/img/num.1.png",
+		"image"  : "rsc/img/num.1.png",
 		"word"	 : "Нэг"
     },
     {
 		"number" : "2",
-		"image"  : "../rsc/img/num.2.png",
+		"image"  : "rsc/img/num.2.png",
 		"word"	 : "Хоёр"
     },
     {
 		"number" : "3",
-		"image"  : "../rsc/img/num.3.png",
+		"image"  : "rsc/img/num.3.png",
 		"word"	 : "Гурав"
     },
     {
 		"number" : "4",
-		"image"  : "../rsc/img/num.4.png",
+		"image"  : "rsc/img/num.4.png",
 		"word"	 : "Дөрөв"
     },
     {
 		"number" : "5",
-		"image"  : "../rsc/img/num.5.png",
+		"image"  : "rsc/img/num.5.png",
 		"word"	 : "Тав"
     },
     {
 		"number" : "6",
-		"image"  : "../rsc/img/num.6.png",
+		"image"  : "rsc/img/num.6.png",
 		"word"	 : "Зургаа"
     },
     {
 		"number" : "7",
-		"image"  : "../rsc/img/num.7.png",
+		"image"  : "rsc/img/num.7.png",
 		"word"	 : "Долоо"
     },
     {
 		"number" : "8",
-		"image"  : "../rsc/img/num.8.png",
+		"image"  : "rsc/img/num.8.png",
 		"word"	 : "Найм"
     },
     {
 		"number" : "9",
-		"image"  : "../rsc/img/num.9.png",
+		"image"  : "rsc/img/num.9.png",
 		"word"	 : "Ес"
     },
     {
 		"number" : "10",
-		"image"  : "../rsc/img/num.10.png",
+		"image"  : "rsc/img/num.10.png",
 		"word"	 : "Арав"
     }
 ]
