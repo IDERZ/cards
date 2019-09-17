@@ -6,7 +6,7 @@ $(document).ready(function () {
         $.each(data, function(i, card) {
             datas[i] = card;
         });
-
+        $('#btnSound')[0].play();
         showCard(datas[curIdx]);
     });
 
@@ -16,7 +16,7 @@ $(document).ready(function () {
         } else {
             curIdx = curIdx - 1;
         }
-
+        $('#btnSound')[0].play();
         showCard(datas[curIdx]);
     });
 

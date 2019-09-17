@@ -32,8 +32,10 @@ $(document).ready(function () {
 
         if (result == choicedResult) {
             $(choicedImg).attr('src', 'rsc/img/icons/correct.svg');
+            $('#successSound')[0].play();
         } else {
             $(choicedImg).attr('src', 'rsc/img/icons/incorrect.svg');
+            $('#wrongSound')[0].play();
         }
         $('#expr').attr('selected', true);
 
@@ -43,7 +45,7 @@ $(document).ready(function () {
             $(choicedImg).css('display', 'none');
             
             $('#expr').attr('selected', false);
-          }, 2000);
+          }, 1000);
     });
 
     function exprGenerate() {

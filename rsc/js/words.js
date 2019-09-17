@@ -31,8 +31,10 @@ $(document).ready(function () {
 
         if (word == choicedWord) {
             $(choicedImg).attr('src', 'rsc/img/icons/correct.svg');
+            $('#successSound')[0].play();
         } else {
             $(choicedImg).attr('src', 'rsc/img/icons/incorrect.svg');
+            $('#wrongSound')[0].play();
         }
         $('#word').attr('selected', true);
 
@@ -42,7 +44,7 @@ $(document).ready(function () {
             $(choicedImg).css('display', 'none');
             
             $('#word').attr('selected', false);
-          }, 2000);
+          }, 1000);
     });
 
     function wordGenerate() {

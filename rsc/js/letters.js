@@ -17,6 +17,7 @@ $(document).ready(function () {
             curIdx = curIdx - 1;
         }
 
+        $('#btnSound')[0].play();
         showCard(datas[curIdx]);
     });
 
@@ -27,6 +28,7 @@ $(document).ready(function () {
             curIdx = curIdx + 1;
         }
 
+        $('#btnSound')[0].play();
         showCard(datas[curIdx]);
     });
 });
